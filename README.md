@@ -1,17 +1,16 @@
-# muffinVille Docs
+# Muffin Kitty Docs
 
-Official website for **Muffin Kitty** / **Muffin Kitty**, an iOS arcade game starring Muffin.
+Public product and support site for **Muffin Kitty** / **Котик Маффін**. The character is **Котик Маффін**, catching falling muffins in a three-lane arcade game.
 
-## Main character
+## Site content
 
-The game's main character is **Muffin** (**Маффін**).
+- Uses Muffin Kitty app assets: character, muffins, game background, icon, and logo.
+- Keeps the berry, cream, and lavender palette consistent on `index.html`, `support.html`, `privacy.html`, and `terms.html`.
+- Shows the approved Docs screenshots: launch art without a spinner, active gameplay with falling muffins and no Game Over or banner, and English settings.
+- Provides localized support in 17 interface languages.
 
-## Pages
+## Deployment
 
-- `index.html` — product landing page
-- `support.html` — localized support in 17 languages
-- `privacy.html` — privacy policy
-- `terms.html` — terms of use
+The static public site deploys from `main` through `.github/workflows/pages.yml`.
 
-The site is static and deployed to GitHub Pages through
-`.github/workflows/pages.yml`.
+https://sanychonline.github.io/muffinKittyDocs/
