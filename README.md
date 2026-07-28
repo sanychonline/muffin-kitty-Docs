@@ -1,6 +1,6 @@
 # Muffin Kitty Docs
 
-Public product and support site for **Muffin Kitty** / **Котик Маффін**. The character is **Котик Маффін**, catching falling muffins in a three-lane arcade game.
+Public product and support site for **Muffin Kitty** / **Котик Маффін**. The character is **Котик Маффін**, collecting muffins in a cozy café-themed three-lane arcade run.
 
 ## Site content
 
